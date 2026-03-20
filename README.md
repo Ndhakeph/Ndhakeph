@@ -1,10 +1,10 @@
-# Hi, I'm Nishad
+# Hi, I'm Nishad 👋
 
 Third-year Computer Engineering student at I²IT, Pune. I build AI systems — retrieval pipelines, multi-agent orchestration, safety testing tools, and evaluation platforms.
 
 Most of my recent work focuses on understanding what makes AI applications reliable in practice: how to retrieve the right context for a RAG system, how to systematically test whether guardrails actually catch adversarial prompts, and how to evaluate LLM output quality beyond "looks fine."
 
-## What I've Built
+## 🔧 What I've Built
 
 **[RAG Knowledge Assistant](https://github.com/Ndhakeph/ai-rag-knowledge-assistant)** — Local document Q&A with multi-stage retrieval and hybrid reranking. Runs entirely on Ollama (no API costs). The interesting part is the reranking pipeline — vector similarity alone misses a lot, so I built a weighted scoring system combining semantic similarity, keyword overlap, position, and recency.
 
@@ -18,7 +18,7 @@ Most of my recent work focuses on understanding what makes AI applications relia
 - **[GST Shield](https://github.com/Ndhakeph/khatabook-ai-hackathon)** · [Live Demo](https://khatabook-ai-hackathon.vercel.app/) — AI compliance tool that validates vendor GST status before payment. Built in 24 hours at AI Boomi Buildathon. Uses Claude Vision for receipt parsing.
 - **[Agentic Honeypot](https://github.com/Ndhakeph/Agentic-Honeypot)** — Counter-scam system that wastes scammers' time with an adaptive AI persona while extracting threat intelligence. Built at India AI Impact Buildathon.
 
-## Stack
+## 💻 Stack
 
 **Languages:** Python, TypeScript, JavaScript, SQL  
 **AI/LLM:** LangChain, Ollama, OpenAI SDK, Gemini API, FastRouter, Tavily  
@@ -26,6 +26,6 @@ Most of my recent work focuses on understanding what makes AI applications relia
 **Frontend:** Next.js, React, Tailwind CSS  
 **Data:** PostgreSQL, Supabase, pgvector (HNSW), Docker  
 
-## Contact
+## 📫 Contact
 
 ndhakeph@gmail.com · [LinkedIn](https://linkedin.com/in/nishaddhakephalkar)
