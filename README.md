@@ -1,5 +1,7 @@
 # Nishad Dhakephalkar
 
+[![ndhakeph's AI token usage](https://whoburnedmore.com/api/embeds/ndhakeph?style=stats&theme=dark&accent=mint&period=30d)](https://whoburnedmore.com/u/ndhakeph?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
+
 **AI/GenAI engineer** building production-oriented AI systems - RAG, agents, evaluation, and safety.
 Computer Engineering @ I²IT Pune · Grad 2027 · Pune, India
 
