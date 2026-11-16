@@ -1,11 +1,12 @@
 # Nishad Dhakephalkar
 
-[![ndhakeph's AI token usage](https://whoburnedmore.com/api/embeds/ndhakeph?style=stats&theme=dark&accent=mint&period=30d)](https://whoburnedmore.com/u/ndhakeph?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
-
-**AI/GenAI engineer** building production-oriented AI systems - RAG, agents, evaluation, and safety.
+**Building production-oriented AI systems - RAG, agents, evaluation, and safety.**
 Computer Engineering @ I²IT Pune · Grad 2027 · Pune, India
 
 I care more about the parts of an AI system that decide whether it actually works - retrieval quality, evaluation, safety, and orchestration - than about model hype. Most of what I build is an attempt to make LLM behaviour reliable and measurable, not just demo-able.
+
+Agentsentinel: Provenance gate that blocks agent actions justified by externally planted memories. Final-year project.
+Cold-Start: Preflight checks for coding agents: finds setup gaps in a repo and mines agent transcripts for recurring failures.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
